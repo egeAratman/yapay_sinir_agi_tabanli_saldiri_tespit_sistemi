@@ -1,0 +1,1 @@
+# yapay_sinir_ag-_tabanl-_sald-r-_tespit_sistemi
